@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.text-white { color:rgb(255, 255, 255); }
+.text-orange { color: rgb(255, 127, 80); }
+.text-black { color: rgb(0, 0, 0); }
+
+.bg-blue { background-color: #365071;}
+.bg-lightpurple { background-color: #6D5A7A;}
+.bg-lightblue { background-color: #A0C4FF;}
+
+.text-center {text-align: center;}
+
+.p-10{padding: 10px;}
+.p-25{padding: 25px;}
+
+.my-10px { margin: 10px 0 10px 0;}
+
+.w-30 { width: 30%;}
+
+.container-fluid{
+    width: 100%;
+}
